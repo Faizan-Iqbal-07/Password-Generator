@@ -39,6 +39,3 @@ You can check out the live demo of this project [here](https://faizan-iqbal-07.g
 - CSS
 - JavaScript
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
